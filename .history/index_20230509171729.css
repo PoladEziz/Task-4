@@ -88,27 +88,22 @@
   .main {
     display: flex;
     flex-direction: column;
-    /* padding-left: 63px;
-    padding-top: 93px;
-    padding-right: 480px; */
-    padding: 70px 199px 127px 71px;
+    padding-left: 63px;
+    padding-top: 93 px;
+    padding-right: 480px;
   }
 
-  /* .page-1{
-  padding: 70px 199px 127px 71px;
-
-} */
   .main .page-1 h1 {
-    font-family: "Roboto Slab";
+    font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 700;
     font-size: 32px;
     line-height: 101.38%;
-    margin-bottom: 70px;
+    margin-bottom: 70pc;
   }
 
   .main .page-1 .top_child ul li h2 {
-    font-family: "Roboto";
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 15px;
@@ -117,7 +112,7 @@
   }
 
   .main .page-1 .top_child ul li p {
-    font-family: "Roboto";
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 11px;
@@ -125,7 +120,7 @@
   }
 
   .main .page-2 h1 {
-    font-family: "Roboto Slab";
+    font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 700;
     font-size: 32px;
@@ -133,7 +128,7 @@
   }
 
   .main .page-2 ul li {
-    font-family: "Roboto";
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -143,7 +138,7 @@
 
 @media only screen and (max-width: 768px) {
   .main .page-1 h1 {
-    font-family: "Roboto Slab";
+    font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
@@ -159,7 +154,7 @@
   }
 
   .main .page-1 .top_child ul li h2 {
-    font-family: "Roboto";
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -167,7 +162,7 @@
   }
 
   .main .page-1 .top_child ul li p {
-    font-family: "Roboto";
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 11px;
@@ -175,7 +170,7 @@
   }
 
   .main .page-2 h1 {
-    font-family: "Roboto Slab";
+    font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 700;
     font-size: 32px;
@@ -183,13 +178,10 @@
   }
 
   .main .page-2 ul li {
-    font-family: "Roboto";
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
-  }
-  .page-2 {
-    margin-top: 73px;
   }
 }
